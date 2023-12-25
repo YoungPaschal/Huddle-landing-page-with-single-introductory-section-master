@@ -1,0 +1,52 @@
+.first{
+    background-color: hsl(257, 40%, 49%);
+    display: flex;
+    flex-direction: row;
+    width: 1000px;
+    background-image: url("./images/bg-desktop.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 1000px;
+    height: 500px;
+}
+.logo{
+    width: 130px;
+    margin-top: 25px;
+    margin-left: 40px;
+}
+.mockups{
+    width: 500px;
+    margin-left: 40px;
+    margin-top: 35px;
+}
+
+.second{
+    color: white;
+    margin-top: 130px;
+    width: 500px;
+    margin-right: 10px;
+    font-size: 15px;
+}
+.build{
+    font-size: xx-large;
+    font-style: unset;
+}
+.re{
+    margin-top: 20px;
+}
+.voice{
+    margin-top: 7px;
+}
+.register{
+    width: 150px;
+    margin-top: 20px;
+    height: 40px;
+    border-radius: 30px;
+    border: 0px;
+    color: hsl(300, 69%, 71%);
+    box-shadow: 2px 2px 2px black;
+}
+.image{
+    margin-top: 110px;
+    margin-left: 300px;
+}
